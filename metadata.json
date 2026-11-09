@@ -1,0 +1,6 @@
+{
+  "name": "Nitro Drift 3D",
+  "description": "Jogo de corrida de carros multiplayer 3D com gráficos realistas, suporte a controle físico e virtual, personalização completa de veículos e construtor de pistas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
